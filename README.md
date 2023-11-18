@@ -55,6 +55,10 @@ All items below were either purchased by someone in the community or purchased b
 ![Alt text](/assets/img/example-printed-shroud.jpg "Shroud")
 
 - [Nozzle brush cleaner](https://www.printables.com/model/625480-brush-mount-for-ender-3-v3-se)
+- [Bin + cable holder](https://www.printables.com/model/630264-ender-3-v3-se-bin-cable-holder)
+- [Bed levelling guide](https://www.printables.com/model/596800-ender-3-v3-se-bed-leveling-file)
+- [90 Degree spool holder](https://www.printables.com/model/572862-ender-3-v3-se-spool-holder)
+- 
 
 ## Slicers
 
